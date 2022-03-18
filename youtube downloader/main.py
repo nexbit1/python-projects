@@ -1,4 +1,5 @@
 from pytube import YouTube
+#first run the certificate command stored in python application folder on MAC
 
 #ask for the link from user
 link = input("Enter the link of YouTube video you want to download:  ")
